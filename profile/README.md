@@ -54,7 +54,7 @@ Jak Kontrybutować
 </h3>
 
 - **Email**: hello@fvst.pl
-- **Twitter**: [@FancyOrg](https://twitter.com/fvstpl)
+- **Twitter**: [@fvstpl](https://twitter.com/fvstpl)
 - **Strona internetowa**: [fvst.pl](https://fvst.pl)
 
 Dołącz do nas w naszej misji, aby uczynić świat technologii lepszym miejscem!
